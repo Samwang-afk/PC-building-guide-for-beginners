@@ -1,2 +1,3 @@
-请点击文件名，下载会自动开始（最好用彩色打印）
-如果有发现错误 请pull request
+##press file name to download this doc
+##如果有发现错误 请pull request
+last edit: 2025/6/12
